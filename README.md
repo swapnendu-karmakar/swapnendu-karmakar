@@ -1,5 +1,5 @@
 - 👋 Hi There, I’m @swapnendu-karmakar, a linux as well as open source fan boy.
-- 👀 I’m interested in ...
+- 👀 I have interest in Linux, Free & Open Source, Programming, web.
 - 🌱 I’m currently learning Java but I'm also tring to expend my areas of expertise in the field of shell scripting, c, c++, python.
 
 
